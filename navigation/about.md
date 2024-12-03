@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Creator of Student 2025
+lets see how this goes :DDDDDD
