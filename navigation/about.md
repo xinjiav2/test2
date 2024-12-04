@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zhengji
+title: About
 permalink: /about/
 ---
 
