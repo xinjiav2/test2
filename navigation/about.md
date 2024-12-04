@@ -38,3 +38,7 @@ Some of the games I play are mostly made by mihoyou, and include Genshin Impact,
 
 
 yayyyyy :DDDDDDDDDD
+
+note to self, to add an image do this: 
+<html>
+<body>
