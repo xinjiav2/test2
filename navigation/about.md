@@ -18,4 +18,5 @@ where 李 is the surname and 正佶 is the given name.
 佶 is much more rare, and it is a combaniation of the radical meaning one person and 吉 meaning lucky, overall this word has two meanings, meaning both lucky and healthy.
 Yay that part of the thing is done.
 I am intersted into many things, these being video games. And video games. Did i mention video games?
-Some of the games I play are mostly made by mihoyou, and include Genshin Impact, Honkai Star Rail and Zenless Zone Zero. I also play Project Sekai and Minecraft.![alt text](image-1.png)n
+Some of the games I play are mostly made by mihoyou, and include Genshin Impact, Honkai Star Rail and Zenless Zone Zero. I also play Project Sekai and Minecraft.![alt text](image-1.png)
+yayyyyy :DDDDDDDDDD
