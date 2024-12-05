@@ -39,18 +39,21 @@ Some of the games I play are mostly made by mihoyou, and include Genshin Impact,
 <html>
 
 
-
 yayyyyy :DDDDDDDDDD
+
 
 Other than that, I am a person who is very good at procrastination, For example, I am supposed to write a paper right now, however I do not want to do that so lets procrastiante and expand my blog post!!!
 
+
 I want to put more images in here because i finally figured out how to use html
+
 
 so uhh
 
+
 here have genshin
+
 
 <html>
 <body>
 <img src="https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/M01/016/37/M010163791.jpg&v=64143321k&w=375&h=375">
-
