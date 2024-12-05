@@ -48,6 +48,9 @@ I want to put more images in here because i finally figured out how to use html
 
 so uhh
 
-here have genshin
+here have hoyoverse
 
-![alt text](image-3.png)
+<html>
+<body>
+<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/2/2a/HoYoverse_logo.png/330px-HoYoverse_logo.png">
+
