@@ -5,8 +5,8 @@ github_username: xinjiav2
 github_repo: "test2" 
 baseurl: "/test2"
 future: true
-remote_theme: jekyll/slate
-slate:
+remote_theme: jekyll/minima
+minima:
   skin: dark
   social_links:
     - { platform: github, user_url: "https://github.com/xinjiav2"}
