@@ -57,3 +57,5 @@ here have genshin
 <html>
 <body>
 <img src="https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/M01/016/37/M010163791.jpg&v=64143321k&w=375&h=375">
+
+https://gravatar.com/xinjiav2
