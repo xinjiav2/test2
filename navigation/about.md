@@ -48,7 +48,7 @@ I want to put more images in here because i finally figured out how to use html
 
 so uhh
 
-here have hoyoverse
+here have genshin
 
 <html>
 <body>
