@@ -52,5 +52,5 @@ here have hoyoverse
 
 <html>
 <body>
-<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/2/2a/HoYoverse_logo.png/330px-HoYoverse_logo.png">
+<img src="https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/M01/016/37/M010163791.jpg&v=64143321k&w=375&h=375">
 
