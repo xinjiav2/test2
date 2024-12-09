@@ -30,3 +30,7 @@ I have been told to do more index.md stuff so here have some gibberish
 <html>
 <body>
 <img src=""https://avatars.githubusercontent.com/u/56803677?v=4>
+
+```python
+print (1+1)
+```
