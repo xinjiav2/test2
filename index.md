@@ -27,8 +27,5 @@ FINALLY
 
 Hi guys :D
 I have been told to do more index.md stuff so here have some gibberish
-<html>
-<body>
-<img src=""https://avatars.githubusercontent.com/u/56803677?v=4>
-<body>
-<html>
+
+<img alt="describe image" src=https://avatars.githubusercontent.com/u/56803677?v width="100" height="200">
