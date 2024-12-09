@@ -28,6 +28,16 @@ FINALLY
 Hi guys :D
 I have been told to do more index.md stuff so here have some gibberish
 
-<img alt="rachit's friend" src="https://img1.wsimg.com/isteam/ip/8ede07fa-6d26-4e49-be4c-9f7a27d67ad5/katre.webp/:/cr=t:0%25,l:3.79%25,w:92.42%25,h:100%25/rs=w:600,h:600,cg:true">
+rip rachits friend :c
 
 ![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
