@@ -26,6 +26,11 @@ where 李 is the surname and 正佶 is the given name.
 
 佶 is much more rare, and it is a combaniation of the radical meaning one person and 吉 meaning lucky, overall this word has two meanings, meaning both lucky and healthy.
 
+Oh and also the other day I romanized my name which is making it easier for english readers to understand.
+Its like Jung-gil Lee when romanized. 
+
+sounds korean
+
 Yay that part of the thing is done.
 
 I am intersted into many things, these being video games. And video games. Did i mention video games?
@@ -59,6 +64,5 @@ here have genshin
 <img src="https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/M01/016/37/M010163791.jpg&v=64143321k&w=375&h=375">
 
 
-<html br> 
 
 https://gravatar.com/xinjiav2

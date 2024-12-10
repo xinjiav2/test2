@@ -30,6 +30,8 @@ I have been told to do more index.md stuff so here have some gibberish
 
 rip rachits friend :c
 
+anyway have rachits github and belows his entire linkedin :D
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
