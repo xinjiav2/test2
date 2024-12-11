@@ -3,7 +3,7 @@ description: "Zhengji Li - Class of 2028"
 owner_name: Zhengji Li
 github_username: xinjiav2
 github_repo: "test2" 
-baseurl: "/test2"
+# baseurl: "/test2"
 future: true
 remote_theme: jekyll/minima
 minima:
