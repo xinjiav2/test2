@@ -1,4 +1,11 @@
 ---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<div>{{ content }}</div>
+
+
+<!---
 layout: base 
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
@@ -79,3 +86,31 @@ layout: base
   {%- endif -%}
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+
+<nav>
+  <ul>
+    <li><a href="/projects">Projects</a></li>
+    <li><a href="/javascript">JavaScript Tutorials</a></li>
+  </ul>
+</nav>
+
+
+{% include nav/javascript_project.html %}
+
+_includes/nav/javascript_project.html
+
+<nav>
+  <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/projects">Projects</a></li>
+      <li><a href="/about">About</a></li>
+  </ul>
+</nav>
+
+
+{% include nav/GPT_overview.html %}
+
+
+
+

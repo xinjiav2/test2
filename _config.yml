@@ -1,17 +1,17 @@
-title: Nighthawk Pages 
-description: "Class of 2025"
-owner_name: John Mortensen
-github_username: nighthawkcoders
+title: Zhengji Li - CSSE blog
+description: "Zhengji Li - Class of 2028"
+owner_name: Zhengji Li
+github_username: xinjiav2
 github_repo: "test2" 
-baseurl: "/test2"
+# baseurl: "/test2"
 future: true
 remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    - { platform: github, user_url: "https://github.com/nighthawkcoders"}
-    - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
-    - { platform: youtube, user_url: "https://www.youtube.com/@nighthawkcodingsociety2868" } 
+    - { platform: github, user_url: "https://github.com/xinjiav2"}
+    - { platform: x, user_url: "https://x.com/lianghenhao/" }
+    - { platform: youtube, user_url: "https://www.youtube.com/@nishiaaaa" } 
 # remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
@@ -24,3 +24,5 @@ header_pages:
   - navigation/search.md
   - navigation/about.md
   - README4YML.md
+exclude:
+  - venv
